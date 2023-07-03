@@ -53,7 +53,7 @@ const Protect = () => {
         <div className="">
           <img
             className="w-[350px] h-[310px]"
-            src="src/assets/protect.png"
+            src="/assets/protect.png"
             alt=""
           />
         </div>

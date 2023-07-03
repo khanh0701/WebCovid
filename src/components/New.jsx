@@ -9,7 +9,7 @@ const New = () => {
       </div>
       <div className="flex justify-between mx-28">
         <div>
-          <img src="src/assets/new.png" alt="" />
+          <img src="/assets/new.png" alt="" />
           <div className="flex  justify-between mt-3  text-gray-500">
             <div className="flex pl-10 ">
               <span className="material-symbols-outlined mr-1">
@@ -30,7 +30,7 @@ const New = () => {
           </p>
         </div>
         <div>
-          <img src="src/assets/new.png" alt="" />
+          <img src="/assets/new.png" alt="" />
           <div className="flex  justify-between mt-3  text-gray-500">
             <div className="flex pl-10 ">
               <span className="material-symbols-outlined mr-1">
@@ -51,7 +51,7 @@ const New = () => {
           </p>
         </div>{" "}
         <div>
-          <img src="src/assets/new.png" alt="" />
+          <img src="/assets/new.png" alt="" />
           <div className="flex  justify-between mt-3  text-gray-500">
             <div className="flex pl-10 ">
               <span className="material-symbols-outlined mr-1">

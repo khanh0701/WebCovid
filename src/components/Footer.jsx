@@ -6,7 +6,7 @@ const Footer = () => {
       <div className="mx-36 flex justify-between">
         <div className="">
           <img
-            src="src/assets/logo.png"
+            src="/assets/logo.png"
             alt="Logo"
             className=" cursor-pointer w-[150] h-[150]"
           />
